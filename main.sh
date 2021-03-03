@@ -3,9 +3,8 @@ PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 #######################################################################
 #Linux安全检查与应急响应辅助工具
-#last change date: 2021-03-03
+#date: 2021-03-03
 #System Required:  Redhat7+
-#最近更新内容：  对脚本优化 简化了一些执行动作以及修正了一些错误命令
 ########################################################################
 dir="/tmp/default"
 #定义检查log信息的存储目录
